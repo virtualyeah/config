@@ -7,4 +7,3 @@ xcopy helix\config.toml %UserProfile%\Appdata\Roaming\helix\ & cls
 :: Exit message.
 cls
 pause> nul | set /p "=Finished installing configs, press any key to exit."
-
