@@ -1,5 +1,9 @@
 theme = "meliora"
 
+[editor]
+mouse = true
+auto-completion = true
+
 [editor.cursor-shape]
 insert = "bar"
 normal = "block"
